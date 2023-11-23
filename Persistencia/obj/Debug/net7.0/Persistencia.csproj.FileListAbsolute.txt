@@ -1,0 +1,16 @@
+C:\Users\APM02-62\Garden\Persistencia\bin\Debug\net7.0\Persistencia.deps.json
+C:\Users\APM02-62\Garden\Persistencia\bin\Debug\net7.0\Persistencia.dll
+C:\Users\APM02-62\Garden\Persistencia\bin\Debug\net7.0\Persistencia.pdb
+C:\Users\APM02-62\Garden\Persistencia\bin\Debug\net7.0\Dominio.dll
+C:\Users\APM02-62\Garden\Persistencia\bin\Debug\net7.0\Dominio.pdb
+C:\Users\APM02-62\Garden\Persistencia\obj\Debug\net7.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\APM02-62\Garden\Persistencia\obj\Debug\net7.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-62\Garden\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\APM02-62\Garden\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfo.cs
+C:\Users\APM02-62\Garden\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\APM02-62\Garden\Persistencia\obj\Debug\net7.0\Persistencia.sourcelink.json
+C:\Users\APM02-62\Garden\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CopyComplete
+C:\Users\APM02-62\Garden\Persistencia\obj\Debug\net7.0\Persistencia.dll
+C:\Users\APM02-62\Garden\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
+C:\Users\APM02-62\Garden\Persistencia\obj\Debug\net7.0\Persistencia.pdb
+C:\Users\APM02-62\Garden\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll
